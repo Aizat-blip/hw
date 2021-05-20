@@ -95,11 +95,11 @@ h1 {
 	color: white;
 }
 #price, #rating{
-	width: 10%;
+	width: 15%;
 }
 .stock tr:nth-of-type(even){
-	background-color: rgba(167, 45, 45, 0.651);
+	background-color: rgba(245, 153, 153, 0.651);
    }
    .stock tr:nth-of-type(odd){
-	background-color: rgba(196, 104, 68, 0.808);
+	background-color: rgba(192, 67, 17, 0.349);
    }
